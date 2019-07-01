@@ -1,4 +1,4 @@
-public class test1 {
+public class testData {
     public static void main(String[] args) {
         //全体の変数名がi, j, k, l, i1, j1...と変更される
 
